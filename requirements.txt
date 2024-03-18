@@ -2,3 +2,6 @@ pandas==1.2.4
 folium==0.12.1.post1
 streamlit
 streamlit_folium==0.6.13
+requests
+geopandas
+shapely
